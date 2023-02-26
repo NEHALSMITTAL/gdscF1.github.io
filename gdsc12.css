@@ -1,0 +1,80 @@
+
+
+img {
+    border-radius: 99%;
+  }
+  body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  body {
+    background-image: url("bb9.jpeg"), url("bb9.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+  background-size: 1500px 1500px;
+  text-align: relative;
+}
+
+  
+
+  /* Style tab links */
+  .tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 15px;
+    width: 19%;
+  }
+  
+  .tablink:hover {
+    background-color: #777;
+  }
+  
+  /* Style the tab content (and add height:100% for full page content) */
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+
+  }
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: rgb(63, 32, 120);
+  color: white;
+}
+  
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+  
+  
+  #Home {background-color: red;}
+  #News {background-color: green;}
+  #Contact {background-color: blue;}
+  #About {background-color: orange;}
+
+  
